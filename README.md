@@ -1,2 +1,3 @@
-# notes
-interview preparation and study notes
+# Study Notes
+
+Programming Interview Preparation and Study Notes
